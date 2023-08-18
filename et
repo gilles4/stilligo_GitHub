@@ -1,0 +1,169 @@
+[33mcommit 48f69f216f31201511c74e598792e7c0370c3c27[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Aug 17 04:24:34 2023 +0200
+
+    Tourism data test
+
+[33mcommit a09397e88129dea5a1148c3067724bb8c3eab0aa[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Aug 17 04:04:48 2023 +0200
+
+    Tourism data test
+
+[33mcommit a70b01c0a8c26efad3832ceeeceb78b6d8e96fb8[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Aug 17 03:55:51 2023 +0200
+
+    Tourism data test
+
+[33mcommit 449978b1ee9d75c3ef83b009d6c6a91fc0d895c3[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Aug 17 02:30:29 2023 +0200
+
+    Tourism data test
+
+[33mcommit 63e6874a664f6a6db0bbeb0360de332a6a089921[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Aug 17 02:09:33 2023 +0200
+
+    Tourism data test
+
+[33mcommit 73fd06e91c87017af909f81ec0f1d9900e8555e6[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Aug 16 20:54:54 2023 +0200
+
+    Russian Tourism attraction dataset
+
+[33mcommit 128e8200f7f8f96817465fa67b54d01f6354b833[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Aug 16 16:13:52 2023 +0200
+
+    Russian Tourism attraction dataset
+
+[33mcommit a0dd586aa35d7d2dfd38924f8ce30ee7ec5dba78[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Aug 16 05:05:55 2023 +0200
+
+    Russian Tourism attraction dataset
+
+[33mcommit 8eb655a0cb95a1b76cdfe04047257bf50684b387[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Aug 16 04:41:38 2023 +0200
+
+    Canada Tourism attraction dataset
+
+[33mcommit b54f61d1e584e9f891b78bb079ac45dc953b0e3d[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Mon Aug 7 03:50:10 2023 +0200
+
+    Tourism data test
+
+[33mcommit ad61f3a60d29edc280ed7592992413504ad7d319[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Jun 15 08:14:54 2023 +0200
+
+    data exploration: global biomassprint
+
+[33mcommit 70c6f6c11106d128f5b656f27f2862319802a3f7[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Jun 15 07:40:15 2023 +0200
+
+    data exploration: tree dataset 2
+
+[33mcommit 6822ff5ed1d1e16b0297207b50621550d68a352b[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu Jun 8 04:07:21 2023 +0200
+
+    data exploration: global biomassprint
+
+[33mcommit 1f4b6a8f0d3142f05007f419b0b55c296a6f8762[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Fri May 19 00:28:41 2023 +0200
+
+    Definitions to get one a year of historical weathercast and air pollution dataset
+
+[33mcommit 96fc7f17709a1869208b39295700ccef82d81da4[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Fri May 19 00:03:01 2023 +0200
+
+    data exploration: tree dataset 2
+
+[33mcommit 463c0bd1573556a5903b1f403f73735a579ba919[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu May 18 23:46:18 2023 +0200
+
+    data exploration: tree dataset 2
+
+[33mcommit 13d5ec715258f3daa649aab3452de05279f05e39[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu May 18 06:33:00 2023 +0200
+
+    data exploration: tree dataset
+
+[33mcommit fe03cc307a1351ee7b01fe3b96ca4b30714a0063[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu May 11 03:44:06 2023 +0200
+
+    data exploration: 02
+
+[33mcommit 0a9606b58c723873896deed18aeee3c8382bbf39[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Thu May 4 02:31:51 2023 +0200
+
+    data exploration: 01
+
+[33mcommit 6862b783ad58a36a14dafad7ae7df9fc4946f631[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed May 3 02:23:16 2023 +0200
+
+    reading tourism excel file for exploration
+
+[33mcommit 9abe536eeb59a43ae85d6da62ccac5575b075620[m
+Author: gilles <103757106+gilles4@users.noreply.github.com>
+Date:   Thu Mar 30 00:41:48 2023 +0200
+
+    Create stilligo.yml
+    
+    creation of a workflow
+
+[33mcommit 36be59d3824a9ce819c195830efa74594b81886c[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Fri Mar 24 01:17:35 2023 +0100
+
+    1st test of geocoding ap positionstack
+
+[33mcommit bef32c299d4d9b7e4268a5ad8f8fa96592f58724[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Fri Mar 24 01:17:06 2023 +0100
+
+    1st test of geocoding ap positionstack
+
+[33mcommit 3078874636fab082c7cc10351c057bc4775671aa[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Sun Mar 19 13:07:13 2023 +0100
+
+    test of a geolocalisation website: api.positionstack.com
+
+[33mcommit b719956e2742075616c7086d0372c3781a09e0c3[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Mar 15 02:27:15 2023 +0100
+
+    test of tourism portal request:not working yet
+
+[33mcommit 90ccf62622ff8b7e157b8e362da2fb9a48cfe4df[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Mar 15 02:21:15 2023 +0100
+
+    test of tourism portal request:not working yet
+
+[33mcommit 9b0b76a175a207ecebc1c4fa9975a0318d57cd48[m
+Author: gilles banoukepa <gillesbanoukepa@ymail.com>
+Date:   Wed Mar 15 01:49:43 2023 +0100
+
+    1st test of geocoding ap positionstack
+
+[33mcommit f65259d666cfac37af18e6f3f4e8ac24bdb34fec[m
+Author: gilles <103757106+gilles4@users.noreply.github.com>
+Date:   Wed Mar 15 00:45:11 2023 +0100
+
+    Initial commit
