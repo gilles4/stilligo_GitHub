@@ -1,18 +1,10 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
+raw_data/
 # Other files and folders
-.settings/
+stilligo_GitHub/
+*.csv
+*.xls
+*.ipynb
+*.xlsx
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+stilligo_GitHub/flux-17424-202307080937.csv
+stilligo_GitHub/BioTIMEQuery_24_06_2021.csv
